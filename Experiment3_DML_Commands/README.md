@@ -3,6 +3,8 @@
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 
+## NAME : NITHISHKUMAR S
+## REG NO : 212223240109
 ## THEORY
 
 ### 1. INSERT INTO
